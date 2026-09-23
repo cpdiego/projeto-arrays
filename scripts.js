@@ -43,7 +43,7 @@ function sumAllItems() {
         <li>
             <p>A soma de todos <br>
             os itens do <br> 
-            menu é <br>
+            menu é: <br>
             ${formatCurrency(totalValue)}</p>
         </li>
         `
